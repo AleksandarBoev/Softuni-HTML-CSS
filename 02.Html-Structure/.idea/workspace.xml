@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbebdfd7-4230-4014-93c6-ed03147f6ee6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;link</find>
+      <find>rel</find>
+      <find>&lt;style</find>
+      <find>meta</find>
+      <find>script</find>
+      <find>style</find>
+      <find>&lt;section</find>
+      <find>’</find>
+      <find>mw-navigation</find>
+      <find>&lt;/tr</find>
+      <find>bulgaria is a member</find>
+      <find>link</find>
+      <find>noscript</find>
+      <find>&lt;ol</find>
+      <find>&amp;</find>
+      <find>sport</find>
+      <find>sport</find>
+      <find>°</find>
+      <find>–</find>
+      <find>—</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/t01-semantic-tags.html" />
+        <option value="$PROJECT_DIR$/t02-semantic-article-page.html" />
+        <option value="$PROJECT_DIR$/t03-semantic-blog-layout.html" />
+        <option value="$PROJECT_DIR$/t04-semantic-tables.html" />
+        <option value="$PROJECT_DIR$/t05-clean-up-baby-magazine.html" />
+        <option value="$PROJECT_DIR$/t06-clean-up-magazine.html" />
+        <option value="$PROJECT_DIR$/html-modifier/remove-tags.js" />
+        <option value="$PROJECT_DIR$/t07-clean-up-wiki-elephant.html" />
+        <option value="$PROJECT_DIR$/t08-clean-up-wiki-bulgaria.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="02.Html-Structure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02.Html-Structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="02.Html-Structure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02.Html-Structure" type="462c0819:PsiDirectoryNode" />
+              <item name="html-modifier" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Programming\GithubRepos\Softuni-HTML-CSS\02.Html-Structure" />
+      <recent name="E:\Programming\GithubRepos\Softuni-HTML-CSS\02.Html-Structure\html-modifier" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbebdfd7-4230-4014-93c6-ed03147f6ee6" name="Default Changelist" comment="" />
+      <created>1569167217270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569167217270</updated>
+      <workItem from="1569167218771" duration="25000" />
+      <workItem from="1569167280035" duration="9248000" />
+      <workItem from="1569226830911" duration="1284000" />
+      <workItem from="1569651326280" duration="2123000" />
+      <workItem from="1569752031310" duration="8610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21290000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28750825" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/t01-semantic-tags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t02-semantic-article-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t03-semantic-blog-layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t04-semantic-tables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t05-clean-up-baby-magazine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="159" column="7" lean-forward="true" selection-start-line="159" selection-start-column="7" selection-end-line="159" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t06-clean-up-magazine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="23" column="65" lean-forward="true" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html-modifier/remove-tags.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t07-clean-up-wiki-elephant.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39258">
+          <caret line="2181" column="7" selection-start-line="2181" selection-start-column="7" selection-end-line="2181" selection-end-column="7" />
+          <folding>
+            <element signature="e#14754#14760#0" expanded="true" />
+            <element signature="e#14762#14768#0" expanded="true" />
+            <element signature="e#15020#15026#0" expanded="true" />
+            <element signature="e#15028#15034#0" expanded="true" />
+            <element signature="e#16153#16159#0" expanded="true" />
+            <element signature="e#16161#16167#0" expanded="true" />
+            <element signature="e#16187#16193#0" expanded="true" />
+            <element signature="e#16195#16201#0" expanded="true" />
+            <element signature="e#16473#16479#0" expanded="true" />
+            <element signature="e#18563#18569#0" expanded="true" />
+            <element signature="e#18571#18577#0" expanded="true" />
+            <element signature="e#18625#18631#0" expanded="true" />
+            <element signature="e#18633#18639#0" expanded="true" />
+            <element signature="e#19469#19475#0" expanded="true" />
+            <element signature="e#19501#19507#0" expanded="true" />
+            <element signature="e#28278#28284#0" expanded="true" />
+            <element signature="e#28312#28318#0" expanded="true" />
+            <element signature="e#29499#29505#0" expanded="true" />
+            <element signature="e#29515#29521#0" expanded="true" />
+            <element signature="e#29765#29771#0" expanded="true" />
+            <element signature="e#29776#29782#0" expanded="true" />
+            <element signature="e#37109#37115#0" expanded="true" />
+            <element signature="e#37119#37125#0" expanded="true" />
+            <element signature="e#38205#38211#0" expanded="true" />
+            <element signature="e#38217#38223#0" expanded="true" />
+            <element signature="e#38252#38258#0" expanded="true" />
+            <element signature="e#38271#38277#0" expanded="true" />
+            <element signature="e#38431#38437#0" expanded="true" />
+            <element signature="e#38443#38449#0" expanded="true" />
+            <element signature="e#39400#39406#0" expanded="true" />
+            <element signature="e#39414#39420#0" expanded="true" />
+            <element signature="e#39458#39464#0" expanded="true" />
+            <element signature="e#39474#39480#0" expanded="true" />
+            <element signature="e#39508#39514#0" expanded="true" />
+            <element signature="e#39521#39527#0" expanded="true" />
+            <element signature="e#39581#39587#0" expanded="true" />
+            <element signature="e#39596#39602#0" expanded="true" />
+            <element signature="e#39654#39660#0" expanded="true" />
+            <element signature="e#39667#39673#0" expanded="true" />
+            <element signature="e#39707#39713#0" expanded="true" />
+            <element signature="e#39722#39728#0" expanded="true" />
+            <element signature="e#39760#39766#0" expanded="true" />
+            <element signature="e#39773#39779#0" expanded="true" />
+            <element signature="e#39813#39819#0" expanded="true" />
+            <element signature="e#39828#39834#0" expanded="true" />
+            <element signature="e#39919#39925#0" expanded="true" />
+            <element signature="e#39936#39942#0" expanded="true" />
+            <element signature="e#39976#39982#0" expanded="true" />
+            <element signature="e#39991#39997#0" expanded="true" />
+            <element signature="e#42770#42776#0" expanded="true" />
+            <element signature="e#42784#42790#0" expanded="true" />
+            <element signature="e#47991#47997#0" expanded="true" />
+            <element signature="e#48004#48010#0" expanded="true" />
+            <element signature="e#48539#48545#0" expanded="true" />
+            <element signature="e#48550#48556#0" expanded="true" />
+            <element signature="e#49148#49154#0" expanded="true" />
+            <element signature="e#49160#49166#0" expanded="true" />
+            <element signature="e#49168#49174#0" expanded="true" />
+            <element signature="e#53848#53854#0" expanded="true" />
+            <element signature="e#53859#53865#0" expanded="true" />
+            <element signature="e#55683#55689#0" expanded="true" />
+            <element signature="e#55694#55700#0" expanded="true" />
+            <element signature="e#56012#56018#0" expanded="true" />
+            <element signature="e#56099#56105#0" expanded="true" />
+            <element signature="e#56705#56711#0" expanded="true" />
+            <element signature="e#56716#56722#0" expanded="true" />
+            <element signature="e#56745#56751#0" expanded="true" />
+            <element signature="e#56757#56763#0" expanded="true" />
+            <element signature="e#57804#57810#0" expanded="true" />
+            <element signature="e#57815#57821#0" expanded="true" />
+            <element signature="e#63888#63894#0" expanded="true" />
+            <element signature="e#63902#63908#0" expanded="true" />
+            <element signature="e#64779#64785#0" expanded="true" />
+            <element signature="e#64791#64797#0" expanded="true" />
+            <element signature="e#64844#64850#0" expanded="true" />
+            <element signature="e#64857#64863#0" expanded="true" />
+            <element signature="e#65257#65263#0" expanded="true" />
+            <element signature="e#65272#65278#0" expanded="true" />
+            <element signature="e#65297#65303#0" expanded="true" />
+            <element signature="e#65312#65318#0" expanded="true" />
+            <element signature="e#66127#66133#0" expanded="true" />
+            <element signature="e#66142#66148#0" expanded="true" />
+            <element signature="e#68469#68475#0" expanded="true" />
+            <element signature="e#68485#68491#0" expanded="true" />
+            <element signature="e#68973#68979#0" expanded="true" />
+            <element signature="e#68985#68991#0" expanded="true" />
+            <element signature="e#69015#69021#0" expanded="true" />
+            <element signature="e#69026#69032#0" expanded="true" />
+            <element signature="e#69309#69315#0" expanded="true" />
+            <element signature="e#69321#69327#0" expanded="true" />
+            <element signature="e#73341#73347#0" expanded="true" />
+            <element signature="e#73354#73360#0" expanded="true" />
+            <element signature="e#73378#73384#0" expanded="true" />
+            <element signature="e#73393#73399#0" expanded="true" />
+            <element signature="e#73401#73407#0" expanded="true" />
+            <element signature="e#74180#74186#0" expanded="true" />
+            <element signature="e#74194#74200#0" expanded="true" />
+            <element signature="e#74245#74251#0" expanded="true" />
+            <element signature="e#74261#74267#0" expanded="true" />
+            <element signature="e#74696#74702#0" expanded="true" />
+            <element signature="e#74713#74719#0" expanded="true" />
+            <element signature="e#94089#94095#0" expanded="true" />
+            <element signature="e#94101#94107#0" expanded="true" />
+            <element signature="e#94188#94194#0" expanded="true" />
+            <element signature="e#94202#94208#0" expanded="true" />
+            <element signature="e#95570#95576#0" expanded="true" />
+            <element signature="e#95582#95588#0" expanded="true" />
+            <element signature="e#95617#95623#0" expanded="true" />
+            <element signature="e#95630#95636#0" expanded="true" />
+            <element signature="e#103624#103630#0" expanded="true" />
+            <element signature="e#103784#103790#0" expanded="true" />
+            <element signature="e#104026#104032#0" expanded="true" />
+            <element signature="e#104080#104086#0" expanded="true" />
+            <element signature="e#104180#104186#0" expanded="true" />
+            <element signature="e#104191#104197#0" expanded="true" />
+            <element signature="e#107511#107517#0" expanded="true" />
+            <element signature="e#107523#107529#0" expanded="true" />
+            <element signature="e#107577#107583#0" expanded="true" />
+            <element signature="e#107589#107595#0" expanded="true" />
+            <element signature="e#112110#112116#0" expanded="true" />
+            <element signature="e#112173#112179#0" expanded="true" />
+            <element signature="e#135405#135410#0" expanded="true" />
+            <element signature="e#138523#138528#0" expanded="true" />
+            <element signature="e#177238#177243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t08-clean-up-wiki-bulgaria.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="458" column="23" lean-forward="true" selection-start-line="458" selection-start-column="23" selection-end-line="458" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html-modifier/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

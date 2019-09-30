@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <style>
+        input, select {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Simple calculator</h1>
+<label for="first-number">First number</label>
+<input id="first-number" type="number" step="0.01"/>
+
+<label for="operation">Operation</label>
+<select id="operation">
+    <option value="+">+</option>
+    <option value="-">-</option>
+    <option value="*">*</option>
+    <option value="/">/</option>
+</select>
+
+<label for="second-number">Second number</label>
+<input id="second-number" type="number" step="0.01"/>
+
+<button id="calculate">Calculate</button>
+
+<hr/>
+<p>Result: <span id="result"></span></p>
+
+<script src="calculator.js"></script>
+</body>
+</html>

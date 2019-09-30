@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Remove Tags</title>
+</head>
+<body>
+
+<fieldset>
+    <legend>Input HTML</legend>
+    <label>Paste HTML code here</label>
+    <textarea rows="20" cols="200" id="html-input"></textarea>
+    <label>Only tags</label>
+    <input id="tag-input"/>
+    <button id="add-tag">Add tag</button>
+    <select id="tags"></select>
+    <button id="exclude-tag">Exclude</button>
+    <hr/>
+
+    <label>Tags and in between</label>
+    <input id="tag-input-between"/>
+    <button id="add-tag-between">Add tag</button>
+    <select id="tags-between"></select>
+    <button id="exclude-tag-between">Exclude</button>
+    <hr/>
+
+    <label>Attributes</label>
+    <input id="attribute-input"/>
+    <button id="add-attribute">Add attribute</button>
+    <select id="attributes"></select>
+    <button id="exclude-attribute">Exclude</button>
+    <hr/>
+
+    <button id="generate">Generate new HTML</button>
+</fieldset>
+
+<fieldset>
+    <legend>Output HTML</legend>
+    <textarea rows="20" cols="200" id="html-output"></textarea>
+    <button id="copy">Copy result</button>
+</fieldset>
+
+<script src="remove-tags.js"></script>
+</body>
+</html>

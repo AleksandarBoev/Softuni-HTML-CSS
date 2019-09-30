@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80e77167-51d7-4c20-92dd-72865d0b1916" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code-pen-remove-tags/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="79">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code-pen-remove-tags/html-modifier-lib.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-254">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code-pen-remove-tags/remove-tags.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-578">
+              <caret line="80" column="9" lean-forward="true" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>id</find>
+      <find>&lt;article</find>
+      <find>&lt;/article</find>
+      <find>class</find>
+      <find>Trying to live life on a routine with a new baby can seem impossible, but it’s not hopeless</find>
+      <find>&amp;nbsp;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/input-practise/схаей.html" />
+        <option value="$PROJECT_DIR$/input-practise/index.html" />
+        <option value="$PROJECT_DIR$/code-pen-demo/calculator.js" />
+        <option value="$PROJECT_DIR$/code-pen-demo/index.html" />
+        <option value="$PROJECT_DIR$/code-pen-remove-tags/stuff.js" />
+        <option value="$PROJECT_DIR$/code-pen-remove-tags/tag-remover.js" />
+        <option value="$PROJECT_DIR$/code-pen-remove-tags/remove-attributes.js" />
+        <option value="$PROJECT_DIR$/code-pen-remove-tags/remove-between-tags.js" />
+        <option value="$PROJECT_DIR$/code-pen-remove-tags/html-modifier-lib.js" />
+        <option value="$PROJECT_DIR$/code-pen-remove-tags/stupid.html" />
+        <option value="$PROJECT_DIR$/code-pen-remove-tags/stupid2.html" />
+        <option value="$PROJECT_DIR$/code-pen-remove-tags/remove-tags.js" />
+        <option value="$PROJECT_DIR$/code-pen-remove-tags/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Demos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demos" type="462c0819:PsiDirectoryNode" />
+              <item name="code-pen-remove-tags" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../02.Html-Structure" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Demos/code-pen-remove-tags/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="remove-attributes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="remove-attributes.js" working-dir="$PROJECT_DIR$/code-pen-remove-tags">
+      <method v="2" />
+    </configuration>
+    <configuration name="remove-between-tags.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/code-pen-remove-tags/remove-between-tags.js" working-dir="$PROJECT_DIR$/code-pen-remove-tags">
+      <method v="2" />
+    </configuration>
+    <configuration name="remove-tags.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="remove-tags.js" working-dir="$PROJECT_DIR$/code-pen-remove-tags">
+      <method v="2" />
+    </configuration>
+    <configuration name="tag-remover.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="tag-remover.js" working-dir="$PROJECT_DIR$/code-pen-remove-tags">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.remove-attributes.js" />
+        <item itemvalue="Node.js.remove-between-tags.js" />
+        <item itemvalue="Node.js.tag-remover.js" />
+        <item itemvalue="Node.js.remove-tags.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80e77167-51d7-4c20-92dd-72865d0b1916" name="Default Changelist" comment="" />
+      <created>1569155993587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569155993587</updated>
+      <workItem from="1569155999219" duration="2198000" />
+      <workItem from="1569180595507" duration="2119000" />
+      <workItem from="1569219601457" duration="7757000" />
+      <workItem from="1569651526076" duration="6793000" />
+      <workItem from="1569736881491" duration="9912000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28779000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.116325185" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.063739374" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/input-practise/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-pen-calculator-demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-pen-calculator-demo/calculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-pen-remove-tags/stupid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="287" column="115" selection-start-line="287" selection-start-column="24" selection-end-line="287" selection-end-column="115" />
+          <folding>
+            <element signature="e#29765#29798#0" expanded="true" />
+            <element signature="e#29849#29916#0" expanded="true" />
+            <element signature="e#30241#30262#0" expanded="true" />
+            <element signature="e#46575#46581#0" expanded="true" />
+            <element signature="e#48888#48894#0" expanded="true" />
+            <element signature="e#51494#51500#0" expanded="true" />
+            <element signature="e#54110#54116#0" expanded="true" />
+            <element signature="e#56665#56671#0" expanded="true" />
+            <element signature="e#59193#59199#0" expanded="true" />
+            <element signature="e#61657#61663#0" expanded="true" />
+            <element signature="e#64257#64263#0" expanded="true" />
+            <element signature="e#66525#66531#0" expanded="true" />
+            <element signature="e#66554#66560#0" expanded="true" />
+            <element signature="e#66637#66643#0" expanded="true" />
+            <element signature="e#69079#69085#0" expanded="true" />
+            <element signature="e#71496#71502#0" expanded="true" />
+            <element signature="e#73809#73815#0" expanded="true" />
+            <element signature="e#76194#76200#0" expanded="true" />
+            <element signature="e#78474#78480#0" expanded="true" />
+            <element signature="e#78525#78531#0" expanded="true" />
+            <element signature="e#81048#81054#0" expanded="true" />
+            <element signature="e#83491#83497#0" expanded="true" />
+            <element signature="e#86047#86053#0" expanded="true" />
+            <element signature="e#88588#88594#0" expanded="true" />
+            <element signature="e#91204#91210#0" expanded="true" />
+            <element signature="e#93466#93472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-pen-remove-tags/stupid2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-pen-remove-tags/remove-attributes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-pen-remove-tags/tag-remover.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-pen-remove-tags/remove-between-tags.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-pen-remove-tags/html-modifier-lib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-254">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-pen-remove-tags/remove-tags.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578">
+          <caret line="80" column="9" lean-forward="true" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-pen-remove-tags/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
