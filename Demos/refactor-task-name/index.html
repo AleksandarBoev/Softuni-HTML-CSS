@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Refactor</title>
+</head>
+<body>
+
+<fieldset>
+    <legend>Refactor task name</legend>
+    <label>
+        Task name<input/>
+    </label>
+    <button>Refactor</button>
+
+    <hr/>
+    <label>
+        Refactored name: <input />
+    </label>
+    <button>Copy</button>
+</fieldset>
+
+<script>
+    const elements = {
+        input: document.getElementsByTagName('input')[0],
+        refactorButton: document.getElementsByTagName('button')[0],
+        inputResult: document.getElementsByTagName('input')[1],
+        copyButton: document.getElementsByTagName('button')[1],
+    };
+
+    elements.refactorButton.addEventListener('click', () => {
+        let taskName = elements.input.value;
+        taskName = taskName.replace(/[\.\s]/g, '-').replace(/-{2,}/g, '-').toLowerCase();
+        if (!taskName.startsWith('0') && isNaN(Number(taskName.charAt(1)))) { //single digit and doesn't start with 0
+            taskName = 't0' + taskName;
+        } else {
+            taskName = 't' + taskName;
+        }
+
+        elements.inputResult.value = taskName;
+    });
+
+    elements.copyButton.addEventListener('click', () => {
+        elements.inputResult.select();
+        document.execCommand('copy');
+    });
+</script>
+</body>
+</html>
