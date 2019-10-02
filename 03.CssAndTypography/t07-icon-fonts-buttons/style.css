@@ -1,0 +1,27 @@
+html {
+    font-family: Helvetica, serif;
+}
+
+p {
+    display: inline-block;
+    padding: 0.5em;
+    border-radius: 5px;
+    margin: 1.5em 3em 0em 3em;
+}
+
+p span {
+    color: white;
+}
+
+i {
+    padding-right: 0.5em;
+    color: white;
+}
+
+p.orange {
+    background: orange;
+}
+
+p.green {
+    background: green;
+}

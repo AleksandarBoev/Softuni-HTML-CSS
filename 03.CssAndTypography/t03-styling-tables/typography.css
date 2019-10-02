@@ -1,0 +1,32 @@
+body {
+    font-family: Meldivica, sans-serif;
+}
+
+table {
+    width: 60em;
+    text-align: left;
+}
+
+thead tr {
+    background-color: rgb(221, 221, 221);
+}
+
+tbody tr:nth-child(2n + 1) {
+    background-color: rgb(241, 241, 241);
+}
+
+tr:nth-child(2n + 1) td {
+    background-color: rgb(241, 241, 241);
+}
+
+table, td, th {
+    border-width: 1px;
+    border-color: rgb(221, 221, 221);
+    border-style: solid;
+}
+
+tbody tr:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+

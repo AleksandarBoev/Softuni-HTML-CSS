@@ -1,0 +1,23 @@
+@media (min-width: 800px) {
+    html {
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 1024px) {
+    html {
+        font-size: 24px;
+    }
+}
+
+section {
+    max-width: 50%;
+}
+
+div {
+    max-width: 50%;
+}
+
+p {
+    max-width: 66%;
+}

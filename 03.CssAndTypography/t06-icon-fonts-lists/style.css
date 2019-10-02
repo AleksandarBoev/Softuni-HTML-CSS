@@ -1,0 +1,16 @@
+html {
+    font-family: Helvetica, serif;
+}
+
+section {
+    padding: 3em;
+}
+
+ul {
+    list-style-type: none;
+    padding-bottom: 1.5em;
+}
+
+i {
+    padding-right: 0.5em;
+}
