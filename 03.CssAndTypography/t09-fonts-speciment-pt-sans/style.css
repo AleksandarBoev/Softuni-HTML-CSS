@@ -1,0 +1,15 @@
+@import "https://fonts.googleapis.com/css?family=PT+Sans&display=swap";
+
+html {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+p {
+    max-width: 60em;
+}
+
+article {
+    margin: 3em;
+}

@@ -1,0 +1,16 @@
+@import "https://fonts.googleapis.com/css?family=Raleway&display=swap";
+@import "https://fonts.googleapis.com/css?family=Great+Vibes&display=swap";
+
+html {
+    font-family: Raleway, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 3em;
+    max-width: 45em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Great Vibes', cursive;
+    line-height: 1.2;
+    font-weight: bold;
+}
