@@ -1,0 +1,20 @@
+html {
+    font-family: Georgia, serif;
+    font-size: 25px;
+}
+
+section {
+    font-size: 16px;
+}
+
+button {
+    font: inherit;
+}
+
+p {
+    padding-left: 10em;
+}
+
+div {
+    max-width: 20em
+}

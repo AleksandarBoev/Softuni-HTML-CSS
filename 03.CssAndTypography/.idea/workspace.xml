@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd43e416-9082-4976-88fb-2bbd7c6f2adc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demos/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -14,21 +14,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/t11-fonts-speciment-great-vibes-and-raleway/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
+            <state relative-caret-position="306">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/t11-fonts-speciment-great-vibes-and-raleway/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/t01-my-first-css-document/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -56,7 +65,6 @@
       <list>
         <option value="$PROJECT_DIR$/demo/index.html" />
         <option value="$PROJECT_DIR$/demo/my-styles.css" />
-        <option value="$PROJECT_DIR$/t01-my-first-css-document/style.css" />
         <option value="$PROJECT_DIR$/t01-my-first-css-document/index.html" />
         <option value="$PROJECT_DIR$/t03-styling-tables/style.css" />
         <option value="$PROJECT_DIR$/t03-styling-tables/index.html" />
@@ -80,6 +88,7 @@
         <option value="$PROJECT_DIR$/t10-fonts-speciment-cormorant-and-lato/style.css" />
         <option value="$PROJECT_DIR$/t11-fonts-speciment-great-vibes-and-raleway/index.html" />
         <option value="$PROJECT_DIR$/t11-fonts-speciment-great-vibes-and-raleway/style.css" />
+        <option value="$PROJECT_DIR$/t01-my-first-css-document/style.css" />
       </list>
     </option>
   </component>
@@ -97,7 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,17 +113,23 @@
               <item name="03.CssAndTypography" type="b2602c69:ProjectViewProjectNode" />
               <item name="03.CssAndTypography" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="03.CssAndTypography" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03.CssAndTypography" type="462c0819:PsiDirectoryNode" />
+              <item name="t01-my-first-css-document" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Demos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -153,11 +167,12 @@
       <workItem from="1569912168987" duration="13039000" />
       <workItem from="1570002118227" duration="16959000" />
       <workItem from="1570081191679" duration="3570000" />
+      <workItem from="1570123023841" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33568000" />
+    <option name="totallyTimeSpent" value="33622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -203,13 +218,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t01-my-first-css-document/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -343,7 +351,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/t11-fonts-speciment-great-vibes-and-raleway/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
+        <state relative-caret-position="306">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
@@ -352,6 +360,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t01-my-first-css-document/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="40" />
         </state>
       </provider>
     </entry>
