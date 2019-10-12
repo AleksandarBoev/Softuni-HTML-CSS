@@ -1,0 +1,18 @@
+html {
+    font-family: Verdana, serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.5em;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+article {
+    max-width: 45em;
+    margin: 1.5em auto 1.5em auto;
+}
+
+img {
+    height: 20em;
+}

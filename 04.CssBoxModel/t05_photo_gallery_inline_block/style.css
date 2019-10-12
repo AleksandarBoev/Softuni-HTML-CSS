@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #EEEEEE;
+}
+
+li {
+    border-width: 0.4em;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 30%;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 1em;
+}
+
+img {
+    padding: 1.5em;
+}
+

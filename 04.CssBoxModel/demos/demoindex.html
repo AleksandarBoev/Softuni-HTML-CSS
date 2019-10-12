@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div {
+            width: 100px;
+        }
+
+        p {
+            display: inline-block;
+        }
+
+        p::before {
+            content: '|||::BEFORE||| ';
+        }
+
+        p::after {
+            content: ' |||::AFTER|||';
+        }
+    </style>
+</head>
+<body>
+
+<button>Some Text</button>
+<div>
+    <p>Paragraph text 1231 123 4</p>
+</div>
+
+</body>
+</html>

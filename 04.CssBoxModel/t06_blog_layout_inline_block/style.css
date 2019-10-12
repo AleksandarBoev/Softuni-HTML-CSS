@@ -1,0 +1,27 @@
+html {
+    color: rgb(51, 51, 51);
+    font-size: 18px;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+article, aside {
+    display: inline-block;
+    margin: 2.5em 1.5em 2.5em 1.5em;
+    box-sizing: border-box;
+}
+
+article {
+    width: 60%;
+}
+
+aside {
+    width: 28%;
+    vertical-align: top;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, serif;
+}
