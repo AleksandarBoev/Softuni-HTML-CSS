@@ -1,0 +1,24 @@
+img {
+    display: inline-block;
+    width: 45%;
+    box-sizing: border-box;
+}
+
+div {
+    height: 50vh;
+    position: relative;
+}
+
+section {
+    display: block;
+    position: absolute;
+    left: 40%;
+}
+
+.first section {
+    top: 27%;
+}
+
+.second section {
+    top: 5%;
+}

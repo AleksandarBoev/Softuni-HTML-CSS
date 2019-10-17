@@ -1,0 +1,17 @@
+.blackbox {
+    background-color: black;
+    width: 28%;
+    height: 4em;
+    float: left;
+}
+
+.container {
+    background-color: red;
+}
+
+p {
+    padding: 0;
+    margin: 0em;
+    clear: left;
+    display: inline-block;
+}

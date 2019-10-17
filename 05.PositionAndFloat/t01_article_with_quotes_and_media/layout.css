@@ -1,0 +1,39 @@
+body {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 20em;
+    padding: 0.5em;
+    margin: 1em;
+    border-style: solid;
+    border-width: 0.3em;
+    box-shadow: 0 0 40px gray;
+}
+
+img.right {
+    float: right;
+}
+
+img.left {
+    float:left;
+}
+
+blockquote {
+    float:right;
+    display: inline-block;
+    border-left-style: solid;
+    border-left-color: gray;
+    border-left-width: 0.15em;
+    padding-left: 2em;
+    border-radius: 0.15em;
+    width: 40%;
+}
+
+cite {
+    float: right;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}

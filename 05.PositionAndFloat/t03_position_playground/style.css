@@ -1,0 +1,20 @@
+div.first {
+    background: linear-gradient(to right, rgb(24, 90, 157), rgb(67, 206, 162));
+}
+
+div.second {
+    background: linear-gradient(to right, rgb(168, 50, 120), rgb(211, 130, 18));
+}
+
+img {
+    box-shadow: 0 0 20px rgb(2, 2, 2);
+    border-radius: 5px;
+}
+
+.fa-star, .fa-link {
+    position: relative;
+    bottom: 10px;
+    right: 25px;
+    color: white;
+}
+

@@ -1,0 +1,50 @@
+.site-nav { //it is like it does not have content so the box is non-existent. Cuz the content is li, but the li is float-left and that means they dont play a part in the parent box
+}
+
+.site-nav ul {
+     padding: 0;
+     margin: 0;
+}
+
+.site-nav ul::after {
+    content: '';
+    display: block;
+    clear: left;
+}
+
+.site-nav li {
+    list-style: none outside;
+}
+
+.site-nav > ul > li {
+    display: block;
+    float: left;
+}
+
+.site-nav > ul > li > ul {
+    display: none;
+}
+
+.site-nav ul ul {
+    position: absolute;
+}
+
+.site-nav li:hover ul {
+    display: block;
+}
+
+.site-nav a {
+    display: block;
+    background-color: black;
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+}
+
+.site-nav a:hover {
+    background-color: green;
+}
+
+.site-title {
+    float: left;
+}

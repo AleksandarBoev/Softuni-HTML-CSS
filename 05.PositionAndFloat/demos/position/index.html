@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Position Practise</title>
+
+    <style>
+        body {
+            background-color: rgb(210, 210, 210);
+        }
+
+        div {
+            margin: 2em;
+            width: 200px;
+            height: 200px;
+            display: inline-block;
+        }
+
+        .container {
+            width: 90%;
+            height: 100%;
+            margin: 5em;
+            position: relative;
+        }
+
+        .red {
+            background-color: red;
+        }
+
+        .green {
+            background-color: green;
+            position: absolute;
+            bottom: 25px;
+            left: 100px;
+        }
+
+        .blue {
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="red"></div>
+    <div class="green"></div>
+    <div class="blue"></div>
+</div>
+</body>
+</html>
