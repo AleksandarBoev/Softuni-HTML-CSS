@@ -1,0 +1,40 @@
+ul {
+    display: inline-block;
+}
+
+li {
+    list-style: none;
+    float: left;
+    padding-right: 3em;
+}
+
+a {
+    border-radius: 50%;
+    background-color: lightgray;
+    font-size: 30px;
+    padding: 0.5em;
+}
+
+i {
+    color: black;
+}
+
+.fa-facebook:hover {
+    color: darkblue;
+}
+
+.fa-twitter:hover {
+    color: dodgerblue;
+}
+
+.fa-google-plus:hover {
+    color: rgb(221, 76, 60);
+}
+
+.fa-linkedin:hover {
+    color: rgb(0, 123, 182);
+}
+
+.fa-instagram:hover {
+    color: rgb(117, 144, 168);
+}
