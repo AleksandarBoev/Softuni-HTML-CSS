@@ -1,0 +1,25 @@
+body {
+    padding: 3em;
+}
+
+header, ul {
+    display: flex;
+}
+
+body > header {
+    justify-content: space-between;
+}
+
+.site-title{
+    flex-basis: 70%;
+}
+
+ul {
+    flex-basis: 30%;
+    align-self: center;
+    justify-content: space-around;
+}
+
+li {
+    justify-content: space-between;
+}

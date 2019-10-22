@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Navbar</title>
+    <style>
+        nav {
+            background-color: darkblue;
+            color: white;
+        }
+
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        ul:nth-child(1) {
+            float: left;
+        }
+
+        ul:nth-child(2) {
+            float: right;
+        }
+
+        /*ul:nth-child(2)::after { does not work*/
+        /*    content: '';*/
+        /*    display: block;*/
+        /*    clear: both;*/
+        /*}*/
+
+        .clear {
+            clear: left;
+        }
+
+        li {
+            box-sizing: border-box;
+            list-style: none;
+            float: left;
+            padding: 1em;
+        }
+
+        li:hover {
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contacts</a></li>
+        </ul>
+        <ul>
+            <li><a href="#">Login</a></li>
+            <li><a href="#">Register</a></li>
+        </ul>
+        <div class="clear"></div>
+    </nav>
+</header>
+
+</body>
+</html>

@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    padding: 4em;
+    flex-wrap: wrap;
+}
+
+body > * {
+    flex-grow: 1;
+    flex-shrink: 1;
+    padding: 1em;
+    margin: 1em;
+}
+
+header, footer {
+    flex-basis: 100%;
+}
+
+header {
+    padding-bottom: 5em;
+}
+
+main, aside {
+    padding-bottom: 12em;
+}
+
+main {
+    flex-basis: 57%;
+}
+
+aside {
+    flex-basis: 32%;
+}
+
+footer {
+    padding-bottom: 3em;
+}
+

@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(235, 235, 235);
+}
+
+body > * {
+    background-color: white;
+    border-radius: 0.5em;
+    box-shadow: 0 0 1em black;;
+}

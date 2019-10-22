@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Position Demo</title>
+    <style>
+        .container {
+            width: 75vw;
+            margin: 0 auto;
+            background-color: beige;
+        }
+
+        .red, .green, .blue {
+            display: inline-block;
+            width: 10em;
+            height: 10em;
+            margin: 2em;
+        }
+
+        .red {
+            background-color: red;
+        }
+
+        .green {
+            background-color: green;
+            position: relative;
+            top: 1em;
+            right: 1em;
+        }
+
+        .blue {
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="red"></div>
+    <div class="green"></div>
+    <div class="blue"></div>
+</div>
+
+</body>
+</html>

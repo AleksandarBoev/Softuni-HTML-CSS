@@ -1,0 +1,14 @@
+body > header {
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(0, 0, 0);
+}
+
+a {
+    color: rgb(0, 153, 0);
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}

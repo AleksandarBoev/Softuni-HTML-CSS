@@ -1,0 +1,23 @@
+body {
+    padding: 5em;
+}
+
+.container {
+    height: 50vh;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    border: 4px solid black;
+    background-color: lightgray;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: stretch;
+}
+
+.item {
+    border: 2px solid black;
+    background-color: white;
+    padding: 1.5em;
+    flex-basis: 40%;
+}
+

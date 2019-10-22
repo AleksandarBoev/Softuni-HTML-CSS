@@ -1,0 +1,51 @@
+body {
+    padding: 3em;
+}
+
+.container, section {
+    display: flex;
+}
+
+.container {
+    max-width: 65vw;
+    margin: 0 auto;
+}
+
+
+.week {
+    flex-basis: 65%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.notes {
+    flex-direction: column;
+    flex-basis: 30%;
+}
+
+span {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    text-align: center;
+}
+
+.week-day-type, .workday, .weekend-day {
+    padding: 1.5em;
+}
+
+.week-day-type {
+    flex-basis: 100%;
+}
+
+.workday {
+    flex-basis: 20%;
+}
+
+.weekend-day {
+    flex-basis: 50%;
+}
+
+.note-item {
+    padding-bottom: 11em;
+}

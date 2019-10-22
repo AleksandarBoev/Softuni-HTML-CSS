@@ -1,0 +1,20 @@
+body {
+    padding: 3em;
+}
+
+body, ul, li {
+    display: flex;
+}
+
+ul {
+    flex-wrap: wrap;
+}
+
+li {
+    flex-basis: 33%;
+}
+
+img {
+    display: block;
+    width: 100%;
+}

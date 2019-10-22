@@ -1,0 +1,15 @@
+html {
+    font-size: 16px;
+    font-family: Helvetica, sans-serif;
+}
+
+input, button, textarea, option, select {
+    font: inherit;
+}
+
+.site-title {
+    font-family: Verdana, sans-serif;
+    text-transform: uppercase;
+    font-size: 2.5em;
+    font-weight: bold;
+}

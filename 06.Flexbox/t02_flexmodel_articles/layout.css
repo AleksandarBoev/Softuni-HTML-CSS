@@ -1,0 +1,17 @@
+body {
+    padding: 3em;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    max-width: 70vw;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+section > * {
+    margin: 0 1em;
+    flex-basis: 28%;
+    box-sizing: border-box;
+}
