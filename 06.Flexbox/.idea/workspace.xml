@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c502f76-51c4-475c-9462-682e2f0a1f07" name="Default Changelist" comment="" />
+    <list default="true" id="7c502f76-51c4-475c-9462-682e2f0a1f07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t06_photo_gallery_flexbox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/t06_photo_gallery_flexbox/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t06_photo_gallery_flexbox/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/t06_photo_gallery_flexbox/layout.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,17 +18,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/t06_photo_gallery_flexbox/index.html">
+        <entry file="file://$PROJECT_DIR$/t11_cards_with_css_columns_and_flexbox/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="245">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/t06_photo_gallery_flexbox/layout.css">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/t11_cards_with_css_columns_and_flexbox/layout.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -64,11 +72,35 @@
         <option value="$PROJECT_DIR$/t04_flexmodel_calendar/index.html" />
         <option value="$PROJECT_DIR$/t04_flexmodel_calendar/layout.css" />
         <option value="$PROJECT_DIR$/t05_navigation_flexbox/typography.css" />
-        <option value="$PROJECT_DIR$/t05_navigation_flexbox/layout.css" />
         <option value="$PROJECT_DIR$/t05_navigation_flexbox/style.css" />
         <option value="$PROJECT_DIR$/t05_navigation_flexbox/index.html" />
         <option value="$PROJECT_DIR$/t06_photo_gallery_flexbox/index.html" />
+        <option value="$PROJECT_DIR$/t06_photo_gallery_flexbox/style.css" />
         <option value="$PROJECT_DIR$/t06_photo_gallery_flexbox/layout.css" />
+        <option value="$PROJECT_DIR$/t05_navigation_flexbox/layout.css" />
+        <option value="$PROJECT_DIR$/t07_blog_layout_flexbox/index.html" />
+        <option value="$PROJECT_DIR$/t07_blog_layout_flexbox/style.css" />
+        <option value="$PROJECT_DIR$/t07_blog_layout_flexbox/layout.css" />
+        <option value="$PROJECT_DIR$/t07_blog_layout_flexbox/typography.css" />
+        <option value="$PROJECT_DIR$/t08_sticky_footer_flexbox/typography.css" />
+        <option value="$PROJECT_DIR$/t08_sticky_footer_flexbox/style.css" />
+        <option value="$PROJECT_DIR$/t08_sticky_footer_flexbox/reset.css" />
+        <option value="$PROJECT_DIR$/t08_sticky_footer_flexbox/index.html" />
+        <option value="$PROJECT_DIR$/t08_sticky_footer_flexbox/layout.css" />
+        <option value="$PROJECT_DIR$/t09_center_flexbox/style.css" />
+        <option value="$PROJECT_DIR$/t09_center_flexbox/index.html" />
+        <option value="$PROJECT_DIR$/t09_center_flexbox/typography.css" />
+        <option value="$PROJECT_DIR$/t09_center_flexbox/layout.css" />
+        <option value="$PROJECT_DIR$/t10_expanding_flex_cards/style.css" />
+        <option value="$PROJECT_DIR$/t10_expanding_flex_cards/index.html" />
+        <option value="$PROJECT_DIR$/t10_expanding_flex_cards/layout.css" />
+        <option value="$PROJECT_DIR$/demos/images-demo/idnex.html" />
+        <option value="$PROJECT_DIR$/demos/images-demo/index.html" />
+        <option value="$PROJECT_DIR$/t11_cards_with_css_columns_and_flexbox/typography.css" />
+        <option value="$PROJECT_DIR$/t11_cards_with_css_columns_and_flexbox/reset.css" />
+        <option value="$PROJECT_DIR$/t11_cards_with_css_columns_and_flexbox/style.css" />
+        <option value="$PROJECT_DIR$/t11_cards_with_css_columns_and_flexbox/index.html" />
+        <option value="$PROJECT_DIR$/t11_cards_with_css_columns_and_flexbox/layout.css" />
       </list>
     </option>
   </component>
@@ -86,6 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,27 +126,42 @@
               <item name="06.Flexbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="06.Flexbox" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="06.Flexbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06.Flexbox" type="462c0819:PsiDirectoryNode" />
+              <item name="t11_cards_with_css_columns_and_flexbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06.Flexbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06.Flexbox" type="462c0819:PsiDirectoryNode" />
+              <item name="t11_cards_with_css_columns_and_flexbox" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/t06_photo_gallery_flexbox" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/t11_cards_with_css_columns_and_flexbox" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Programming\GithubRepos\Softuni-HTML-CSS\06.Flexbox\t06_photo_gallery_flexbox" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Programming\GithubRepos\Softuni-HTML-CSS\06.Flexbox\demos\list_items_before_images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Programming\GithubRepos\Softuni-HTML-CSS\06.Flexbox\t11_cards_with_css_columns_and_flexbox" />
+      <recent name="E:\Programming\GithubRepos\Softuni-HTML-CSS\06.Flexbox\t10_expanding_flex_cards" />
+      <recent name="E:\Programming\GithubRepos\Softuni-HTML-CSS\06.Flexbox\t08_sticky_footer_flexbox" />
+      <recent name="E:\Programming\GithubRepos\Softuni-HTML-CSS\06.Flexbox\t07_blog_layout_flexbox" />
+      <recent name="E:\Programming\GithubRepos\Softuni-HTML-CSS\06.Flexbox\t06_photo_gallery_flexbox" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -142,20 +190,22 @@
       <workItem from="1571467264630" duration="948000" />
       <workItem from="1571644507546" duration="4104000" />
       <workItem from="1571724501800" duration="13071000" />
+      <workItem from="1571809376256" duration="17340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26250000" />
+    <option name="totallyTimeSpent" value="43590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -174,13 +224,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demos/list_items_before_images/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demos/position/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="655">
@@ -230,13 +273,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t01_media_query_less_layout_using_flexbox/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/t01_media_query_less_layout_using_flexbox/layout.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -248,13 +284,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t02_flexmodel_articles/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="287" selection-start-line="23" selection-start-column="287" selection-end-line="23" selection-end-column="287" />
         </state>
       </provider>
     </entry>
@@ -314,13 +343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t05_navigation_flexbox/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/t05_navigation_flexbox/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -335,22 +357,217 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/t02_flexmodel_articles/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="287" selection-start-line="23" selection-start-column="287" selection-end-line="23" selection-end-column="287" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t01_media_query_less_layout_using_flexbox/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t05_navigation_flexbox/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/t05_navigation_flexbox/layout.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t07_blog_layout_flexbox/images/Image1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t07_blog_layout_flexbox/images/Image2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t07_blog_layout_flexbox/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t07_blog_layout_flexbox/typography.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t07_blog_layout_flexbox/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t07_blog_layout_flexbox/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t08_sticky_footer_flexbox/typography.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t08_sticky_footer_flexbox/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t08_sticky_footer_flexbox/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t08_sticky_footer_flexbox/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t08_sticky_footer_flexbox/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t09_center_flexbox/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t09_center_flexbox/typography.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t10_expanding_flex_cards/images/Image1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t10_expanding_flex_cards/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t09_center_flexbox/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t09_center_flexbox/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/t06_photo_gallery_flexbox/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="108">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/t06_photo_gallery_flexbox/layout.css">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="114" selection-start-line="11" selection-start-column="114" selection-end-line="11" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t06_photo_gallery_flexbox/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t10_expanding_flex_cards/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t10_expanding_flex_cards/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/images-demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t11_cards_with_css_columns_and_flexbox/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t11_cards_with_css_columns_and_flexbox/typography.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t11_cards_with_css_columns_and_flexbox/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t11_cards_with_css_columns_and_flexbox/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t11_cards_with_css_columns_and_flexbox/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

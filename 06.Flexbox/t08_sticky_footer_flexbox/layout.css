@@ -1,0 +1,20 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    background-color: rgb(238, 238, 238);
+    height: 100vh;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+body > * {
+    flex-grow: 1;
+}
+
+p, h1, h2 {
+    padding-left: 1.5rem;
+}

@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+img {
+    background-color: rgb(255, 255, 255);
+    padding: 1em;
+    margin: 1em;
+    border-style: solid;
+    border-width: 0.25em;
+    border-color: black;
+    box-shadow: 0 0 10px black;
+}
+
+a {
+    color: rgb(0, 153, 0);
+    text-decoration: none;
+}
+
+.page > header {
+    border-bottom-style: solid;
+    border-bottom-width: 0.15em;
+    border-bottom-color: gray;
+}

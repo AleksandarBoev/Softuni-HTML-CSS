@@ -1,0 +1,13 @@
+body {
+    background-color: lightgray;
+}
+
+li {
+    padding: 1em;
+    margin: 1em;
+    border-style: solid;
+    border-width: 0.25em;
+    border-color: black;
+    box-shadow: 0 0 0.5em black;
+    background-color: white;
+}

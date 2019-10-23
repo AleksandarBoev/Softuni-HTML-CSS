@@ -1,0 +1,40 @@
+html {
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+body {
+    padding: 3em;
+}
+
+div > header {
+    padding: 2em 0;
+}
+
+div {
+    display: flex;
+    max-width: 80%;
+    flex-wrap: wrap;
+}
+
+div > header {
+    flex-basis: 100%;
+}
+
+section {
+    flex-basis: 30%;
+    margin: 0.5rem;
+}
+
+image {
+    display: block;
+    max-width: 100%;
+}
+
+section > main, section > footer, section h3 {
+    padding: 1rem;
+}
+

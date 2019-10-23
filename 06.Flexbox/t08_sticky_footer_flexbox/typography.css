@@ -1,0 +1,16 @@
+html {
+    font-size: 16px;
+    line-height: 1.5em;
+    font-family: Verdana, sans-serif;
+}
+
+h2 {
+    font-family: Georgia, serif;
+}
+
+.site-title {
+    font-family: Helvetica, serif;
+    font-size: 2.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+}

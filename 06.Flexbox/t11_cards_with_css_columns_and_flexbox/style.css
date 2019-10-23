@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+section {
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 0.10em;
+    border-radius: 0.25em;
+    background-color: white;
+}
+
+footer {
+    border-top-style: solid;
+    border-top-width: 0.15em;
+    border-top-color: gray;
+}

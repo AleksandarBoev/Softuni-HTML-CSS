@@ -1,0 +1,96 @@
+body, .container, ul {
+    display: flex;
+}
+
+ul {
+    align-items: stretch;
+}
+
+li {
+    list-style: none;
+    overflow: hidden;
+}
+
+li:nth-child(1) {
+    flex-basis: 80%;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin-left: -70%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+body {
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 100vh;
+}
+
+.container {
+    display: inline-block;
+    box-sizing: border-box;
+    flex-basis: 75%;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+img {
+    overflow: hidden;
+    display: inline-block;
+    max-width: 24%;
+}
+ */
+

@@ -1,0 +1,29 @@
+body {
+    padding: 3em;
+}
+
+.page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.page > header {
+    flex-basis: 100%;
+}
+
+.page > main {
+    flex-basis: 65%;
+}
+
+.page > aside {
+    flex-basis: 25%;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}

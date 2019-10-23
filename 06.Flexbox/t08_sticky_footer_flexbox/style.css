@@ -1,0 +1,10 @@
+footer {
+    color: rgb(255, 255, 255);
+    background-color: rgb(102, 102, 102);
+}
+
+body > header {
+    border-bottom-style: solid;
+    border-bottom-width: 0.15em;
+    border-bottom-color: gray;
+}

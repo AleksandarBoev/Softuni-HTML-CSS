@@ -2,19 +2,21 @@ body {
     padding: 3em;
 }
 
-body, ul, li {
+body, ul, li { /*all of these elements will be considered flex containers*/
     display: flex;
 }
 
 ul {
-    flex-wrap: wrap;
+    flex-wrap: wrap; /*if "li" elements can't fit on a row, then push them in a new row*/
+    align-items: stretch; /*every "li" element will the height of the tallest one of its current row*/
+    justify-content: space-between; /*the remainder of the "width" will be distributed evenly around (horizontally) every "li" element*/
 }
 
 li {
-    flex-basis: 33%;
-}
-
-img {
-    display: block;
-    width: 100%;
+    box-sizing: border-box; /*width calculations now include padding and margin*/
+    flex-basis: 30%; /*analog to "width", but this is used in flex*/
+    list-style: none; /*remove dots*/
+    align-items: center; /*instead of default "stretch", which makes all direct children have the same height, this centers
+    the children. Tallest child is not changed, but all shorter ones are centered based on the tallest child*/
+    justify-content: center; /*every direct child will have the same amount of space before and after it horizontally*/
 }
