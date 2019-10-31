@@ -1,0 +1,63 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::after, *::before {
+    box-sizing: inherit;
+}
+
+.site-nav {
+    padding-right: 0;
+}
+
+.site-nav ul {
+    padding: 0;
+    margin: 0;
+}
+
+.site-nav > ul {
+    padding: 0.5em;
+    background-color: white;
+}
+
+.site-nav ul::after {
+    content: '';
+    display: block;
+    clear: left;
+}
+
+.site-nav li {
+    list-style: none outside;
+}
+
+.site-nav > ul > li {
+    display: block;
+    float: left;
+}
+
+.site-nav > ul > li > ul {
+    display: none; /*hide inner ul*/
+}
+
+.site-nav ul ul {
+    position: absolute; /*the inner ul will not play a part in resizing*/
+}
+
+.site-nav li:hover ul {
+    display: block;
+}
+
+.site-nav a {
+    display: block; /*take up the li space*/
+    background-color: black;
+    color: white;
+    padding: 0.5em 0.75em;
+    text-decoration: none;
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+    border-radius: 0.25em;
+}
+
+.site-nav a:hover {
+    background-color: green;
+}

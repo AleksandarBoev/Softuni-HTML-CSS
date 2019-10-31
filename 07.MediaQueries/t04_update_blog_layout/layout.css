@@ -1,0 +1,41 @@
+body {
+    padding: 3em;
+}
+
+.page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.page > header {
+    flex-basis: 100%;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+.clear {
+    clear:both;
+}
+
+blockquote {
+    box-sizing: border-box;
+    width: 50%;
+    display: block;
+}
+
+blockquote cite {
+    padding: 1em;
+}
+
+.page > header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

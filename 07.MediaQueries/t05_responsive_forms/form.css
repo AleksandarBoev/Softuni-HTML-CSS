@@ -1,0 +1,54 @@
+.flex-item {
+    display: block;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 800px) {
+    .flex-item {
+        display: block;
+    }
+}
+
+form > * {
+    margin-top: 0.5em;
+}
+
+form p {
+    display: inline-block;
+}
+
+.input-container {
+    position: relative;
+    display: inline-block;
+}
+
+i {
+    position: absolute;
+    top: 20%;
+    left: 0.5em;
+}
+
+input {
+    margin-bottom: 1.5em;
+    width: 70%;
+}
+
+.input-container input {
+    padding: 0.5em 0 0.5em 2em;
+    border-radius: 0.25em;
+    border: 0.10em solid gray;
+}
+
+input[type='submit'].button-black {
+    background-color: black;
+    color: white;
+    border-style: none;
+    padding: 0.5em 1em 0.5em 1em;
+    border-radius: 0.25em;
+    width: 5em;
+}

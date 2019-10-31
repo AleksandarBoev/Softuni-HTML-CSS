@@ -1,0 +1,9 @@
+html {
+    font-family: Verdana, sans-serif;
+}
+
+.site-title {
+    font-size: 3em;
+    text-transform: uppercase;
+    font-weight: bold;
+}

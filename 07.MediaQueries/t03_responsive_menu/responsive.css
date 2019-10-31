@@ -1,0 +1,45 @@
+@media (min-width: 800px) {
+    .site-header {
+        border-bottom-style: solid;
+        border-bottom-color: gray;
+        border-bottom-width: 0.25em;
+    }
+
+    label {
+        display: none;
+    }
+}
+
+@media (max-width: 800px) {
+    .site-header {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .site-header > * {
+        flex-basis: 100%;
+    }
+
+    .site-nav {
+        width: 80%;
+        border-top-style: solid;
+        border-bottom-style: solid;
+        border-top-color: gray;
+        border-bottom-color: gray;
+        border-top-width: 0.20em;
+        border-bottom-width: 0.20em;
+    }
+
+    .site-nav > ul {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .site-nav > ul > * {
+        flex-basis: 100%;
+        margin-top: 0.25em;
+        margin-bottom: 0.25em;
+    }
+}

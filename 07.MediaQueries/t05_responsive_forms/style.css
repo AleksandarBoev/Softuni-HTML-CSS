@@ -1,0 +1,11 @@
+fieldset {
+    padding: 2em;
+    background-color: rgb(240, 240, 240);
+}
+
+legend {
+    border: 0.20em solid gray;
+    border-radius: 0.20em;
+    padding: 0.5em 7em 0.5em 0.5em;
+    background-color: white;
+}

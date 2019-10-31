@@ -1,0 +1,43 @@
+body {
+    padding: 3em;
+    background-color: rgb(238, 238, 238);
+}
+
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, serif;
+    font-size: 1em;
+    line-height: 1.2em;
+}
+
+section {
+    width: 25em;
+    border-radius: 0.5em;
+    box-shadow: 0 0 1em black;
+    overflow: hidden;
+    padding-bottom: 1em;
+    background-color: rgb(255, 255, 255);
+}
+
+.card-info {
+    padding: 1em;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+a {
+    float: right;
+    text-decoration: none;
+    color: white;
+    padding: 0.5em;
+    background-color: rgb(0, 153, 0);
+    border-radius: 0.2em;
+    margin-right: 1em;
+}
+

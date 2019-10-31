@@ -1,0 +1,25 @@
+body {
+    padding: 3em;
+}
+
+.cleaner {
+    clear: right;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+blockquote {
+    margin-top: 0;
+    width: 50%;
+    vertical-align: top;
+}
+
+blockquote p {
+    margin-top: 0;
+}

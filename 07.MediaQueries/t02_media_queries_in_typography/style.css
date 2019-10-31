@@ -1,0 +1,20 @@
+.page-header {
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+    border-bottom-width: 0.25em;
+}
+
+img {
+    padding: 0.5em;
+    margin: 0.5em;
+    border: 0.15em solid black;
+    background-color: white;
+    box-shadow: 0 0 10px black;
+}
+
+blockquote {
+    border-left-style: solid;
+    border-left-width: 0.20em;
+    border-left-color: gray;
+    padding-left: 1.5em;
+}

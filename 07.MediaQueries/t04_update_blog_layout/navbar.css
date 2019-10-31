@@ -1,0 +1,63 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::after, *::before {
+    box-sizing: inherit;
+}
+
+.page-nav {
+    padding-right: 0;
+}
+
+.page-nav ul {
+    padding: 0;
+    margin: 0;
+}
+
+.page-nav > ul {
+    padding: 0.5em;
+    background-color: white;
+}
+
+.page-nav ul::after {
+    content: '';
+    display: block;
+    clear: left;
+}
+
+.page-nav li {
+    list-style: none outside;
+}
+
+.page-nav > ul > li {
+    display: block;
+    float: left;
+}
+
+.page-nav > ul > li > ul {
+    display: none; /*hide inner ul*/
+}
+
+.page-nav ul ul {
+    position: absolute; /*the inner ul will not play a part in resizing*/
+}
+
+.page-nav li:hover ul {
+    display: block;
+}
+
+.page-nav a {
+    display: block; /*take up the li space*/
+    background-color: black;
+    color: white;
+    padding: 0.5em 0.75em;
+    text-decoration: none;
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+    border-radius: 0.25em;
+}
+
+.page-nav a:hover {
+    background-color: green;
+}
