@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(240, 228, 228);
+}
+
+.page-header {
+    background-color: rgb(249, 55, 0);
+
+}
+
+.page ul {
+    list-style: none;
+}
+
+.page a {
+    text-decoration: none;
+    color: white;
+}
+
+.page-header i {
+    color: white;
+}
+
+.page-main-rooms {
+    color: gray;
+}
+
+.page-main-collection {
+    color: gray;
+}
+
+.page-main-collection h2 {
+    color: rgb(249, 55, 0);
+}
+
+.page-main-collection a {
+}
+
+.page-main-services {
+    background-color: rgb(202, 195, 195);
+}
+
+.page-main-services div.image-container {
+    background-color: rgb(240, 228, 228);
+    border-radius: 100%;
+    padding: 1rem;
+}
+
+.page-footer, .page-footer a {
+    color: gray;
+}
+
+.page-footer i {
+    font-size: 1.75em !important;
+}
+
+.button-orange {
+    background-color: rgb(249, 55, 0);
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    color: white !important;
+}
+
+.button-gray {
+    background-color: rgb(202, 195, 195);
+    padding: 0.5rem 3rem;
+    border-radius: 0.25rem;
+    color: black !important;
+}

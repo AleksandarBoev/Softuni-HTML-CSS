@@ -1,0 +1,138 @@
+.page img {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+/*Page header*/
+
+.page-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.page-header ul {
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.page-header ul > li {
+    margin-left: 1.5rem;
+}
+
+.page-header .search{
+    flex-basis: 25%;
+}
+
+.page-header input {
+    padding: 0.33rem;
+    width: 80%;
+}
+
+/*Page main*/
+
+.page-main {
+    margin: 1.5rem 3rem;
+}
+
+.page-main > * {
+    margin-bottom: 2rem;
+}
+
+    /*Page rooms*/
+
+.page-main-rooms {
+    display: flex;
+    justify-content: space-between;
+}
+
+.page-main-rooms > * {
+    flex-basis: 22%;
+    text-align: center;
+}
+
+    /*Page collection*/
+
+.page-main-collection {
+    display: flex;
+}
+
+.page-main-collection > *:nth-child(1) {
+    flex-basis: 40%;
+}
+
+.page-main-collection > *:nth-child(2) {
+    flex-basis: 60%;
+}
+
+.page-main-collection a {
+    display: inline-block;
+}
+
+.page-main-collection-info {
+    margin-top: 2.5rem;
+}
+
+.page-main-collection-info > * {
+    margin-bottom: 1rem;
+}
+
+    /*Page services*/
+.page-main-services {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    padding: 3rem 0;
+}
+
+.page-main-services > * {
+    flex-basis: 25%;
+}
+
+.page-main-services div.image-container {
+    margin: 0 auto;
+    width: 35%;
+}
+
+/*Page footer*/
+.page-footer {
+    margin: 1.5rem 4rem;
+}
+
+.page-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.page-footer > * {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.page-footer-about > * {
+    margin-right: 1.5rem;
+}
+
+.page-footer ul {
+    display: flex;
+}
+
+.page-footer .page-footer-about-ul li {
+    margin-right: 1rem;
+}
+
+.page-footer-contact {
+    align-items: flex-start;
+}
+
+.page-footer-contact > * {
+    margin-left: 1.5rem;
+}
+
+.page-footer .page-footer-social-media li {
+    margin-right: 0.33rem;
+}

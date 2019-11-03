@@ -1,0 +1,59 @@
+/*
+
+# 02. Planets
+## Tasks
+* You are given an **unresponsive** website **(HTML + CSS + images)** - your task is to make the site **responsive**
+* The site layout should change according to the browser **viewport / screen size**
+
+## Constraints
+* You need to implement 2 layouts:
+	* **width <= 1000px**
+	* **width <= 850px**
+*(Check the given screenshots for more details)*
+* You are **NOT permitted** to modify the given HTML and CSS
+* You are **permitted** to modify **ONLY** the **responsive.css** file
+* You are **NOT permitted** to use libraries like Bootstrap
+* Pixel-perfect implementation is **NOT required**
+* The site should open correctly in the latest version of Chrome
+
+ */
+
+/*
+    TODO
+    both phone and tablet need to have planets under one another. And also footer thingies.
+    just the phone: related new parts need to be under one another
+*/
+
+@media (max-width: 1000px) { /*tablet*/
+    .primary .pair {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .primary .pair > * {
+        width: 80%;
+    }
+
+    .primary footer nav {
+        flex-direction: column;
+    }
+
+    .primary footer nav a {
+        border: none !important;
+    }
+}
+
+@media (max-width: 850px) { /*phone*/
+    .primary .news ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .primary .news ul li {
+        text-align: center;
+    }
+}
+
+
+/* > 1000px = default - for Desktop*/

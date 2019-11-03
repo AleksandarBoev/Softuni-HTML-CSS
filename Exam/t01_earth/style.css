@@ -1,0 +1,56 @@
+.earth {
+    border: 0.1rem solid black;
+    margin: 0.1rem;
+}
+
+.earth-header {
+    padding: 2em 0 0.5em 1em;
+    background-color: black;
+}
+
+.earth-header h1 {
+    color: rgb(18, 236, 232);
+    margin-bottom: 1rem;
+}
+
+.earth-header p {
+    color: white;
+}
+
+.earth-part1 {
+    margin: 2rem;
+}
+
+.earth-intro {
+    width: 28%;
+    border: 0.10em solid black;
+    padding: 0.5em 1em 0.5em 1em;
+    float: left;
+    margin-right: 1em;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+.cleaner {
+    clear: both;
+}
+
+.earth-part2 h2 {
+    margin-top: 1em;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    padding: 0.5rem;
+}
+
+.earth-facts {
+    padding: 1rem;
+    background-color: rgb(217, 235, 235);
+}
+
+span.bold {
+    font-weight: bold;
+}
